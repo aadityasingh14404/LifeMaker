@@ -19,17 +19,19 @@ Accessing healthcare shouldn't be a hassle. Lifemaker aims to bridge the gap bet
 
 ## Features
 
-* *Doctor Search:*  Find doctors based on specialization, location, availability, and other criteria.
-* *Doctor Profiles:* View detailed profiles of doctors, including their qualifications, experience, and contact information.
-* *Appointment Calendar:*  Browse available time slots and select the most convenient one.
-* *Secure Booking:*  Book appointments securely with confirmation and reminders.
-* *Patient Dashboard:*  Manage your appointments, view past appointments, and update your profile.
-* *Admin Panel:* Manage doctors, appointments, and other administrative tasks.
-* *Responsive Design:*  Access Lifemaker from any device - desktop, tablet, or mobile.
+* **Doctor Search:**  Find doctors based on specialization, location, availability, and other criteria.
+* **Doctor Profiles:** View detailed profiles of doctors, including their qualifications, experience, and contact information.
+* **Appointment Calendar:**  Browse available time slots and select the most convenient one.
+* **Secure Booking:**  Book appointments securely with confirmation and reminders.
+* **Patient Dashboard:**  Manage your appointments, view past appointments, and update your profile.
+* **Admin Panel:** Manage doctors, appointments, and other administrative tasks.
+* **Responsive Design:**  Access Lifemaker from any device - desktop, tablet, or mobile.
 
 ## Technologies Used
 
-* *Frontend:*  React, HTML, CSS, JavaScript
-* *Backend:*  Node.js, Express.js
-* *Database:*  MongoDB
+* **Frontend:**  React, HTML, CSS, JavaScript
+* **Backend:**  Node.js, Express.js
+* **Database:**  MongoDB
 * Cloudinary for image storage,authentication libraries
+
+
