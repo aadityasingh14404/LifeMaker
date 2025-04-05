@@ -8,7 +8,6 @@ export const DoctorContext = createContext()
 const DoctorContextProvider = (props) => {
 
     const backendUrl = "https://lifemaker-backend.onrender.com"
-    VITE_CURRENCY = '₹'
 
     const [dToken, setDToken] = useState(localStorage.getItem('dToken') ? localStorage.getItem('dToken') : '')
     const [appointments, setAppointments] = useState([])
