@@ -7,7 +7,7 @@ export const AppContext = createContext()
 const AppContextProvider = (props) => {
 
     const currencySymbol = '₹'
-    const backendUrl = "https://life-maker-de9q3xjoi-aadityasingh14404s-projects.vercel.app"
+    const backendUrl = "https://lifemaker-backend.onrender.com"
 
     const [doctors, setDoctors] = useState([])
     const [token, setToken] = useState(localStorage.getItem('token') ? localStorage.getItem('token') : '')
