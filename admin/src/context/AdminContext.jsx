@@ -8,6 +8,7 @@ export const AdminContext = createContext()
 const AdminContextProvider = (props) => {
 
     const backendUrl = "https://lifemaker-backend.onrender.com"
+    VITE_CURRENCY = '₹'
 
     const [aToken, setAToken] = useState(localStorage.getItem('aToken') ? localStorage.getItem('aToken') : '')
 
